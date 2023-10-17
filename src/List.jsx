@@ -5,7 +5,7 @@ export const List = ({ people }) => {
         <section key={person.id}>
           <img src={person.image} alt={person} />
           <h2>{person.name}</h2>
-          <p>{person.age}</p>
+          <p>{person.age} years old</p>
         </section>
       ))}
     </div>

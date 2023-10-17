@@ -1,0 +1,12 @@
+img {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 50%;
+}
+
+main {
+  margin: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
